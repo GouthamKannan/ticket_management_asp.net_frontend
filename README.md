@@ -15,7 +15,7 @@ This repository contains the frontend source code of the application.
 
 The backend code can be found in the repository
 
-[https://github.com/GouthamKannan/ticket_management_asp.net_backend](https://github.com/GouthamKannan/ticket_management_backend)
+[https://github.com/GouthamKannan/ticket_management_asp.net_backend](https://github.com/GouthamKannan/ticket_management_asp.net_backend)
 
 # DEMO
 
